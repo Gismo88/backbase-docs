@@ -1,2 +1,2 @@
 # backbase-docs
-Backbase quistart
+Backbase quickstart
